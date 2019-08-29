@@ -14,6 +14,6 @@ A series of libraries and python methods were used to achieve the 2 objectives, 
 wrangle_act.ipynb
 
 Project output files:
-twitter_archive_master.csv (a cleaned file)
+twitter_archive_master.csv (a cleaned file), there's also a sqlite database created called tweetanalysis.db
 wrangle_report.pdf (describes wrangling efforts, internal use audience)
 act_report.pdf (communicates the insights and displays the visualization, audience at large)
