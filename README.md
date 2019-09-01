@@ -1,6 +1,7 @@
 # data_wrangling
 Udacity's data_wrangling project
-__ If you are a Udacity student, please don't plagiarize this work, reach out to your mentor, or ask me directly __
+
+** If you are a Udacity student, please don't plagiarize this work, reach out to your mentor, or ask me directly **
 
 The project objective is 2 fold:
 a) Gather, assess and clean a set of 3 datasets
