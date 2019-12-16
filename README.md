@@ -11,7 +11,7 @@ twitter-archive-enhanced.csv (provided)
 image-predictions.tsv (downloaded programmatically)
 tweet_json.txt (created by using tweepy).
 
-A series of libraries and python methods were used to achieve the 2 objectives, the code can be found in file
+A series of libraries (numpy, pandas, matplotlib, seaborn) and python methods were used to achieve the 2 objectives, the code can be found in file
 wrangle_act.ipynb
 
 Project output files:
