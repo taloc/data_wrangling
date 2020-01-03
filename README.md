@@ -1,5 +1,5 @@
-# data_wrangling
-Udacity's data_wrangling project
+# Data wrangling
+Gathered and cleaned and visualized data from JSON files, csv and tsv from a twitter account
 
 
 The project objective is 2 fold:
