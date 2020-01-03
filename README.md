@@ -3,7 +3,9 @@ Udacity's data_wrangling project
 
 
 The project objective is 2 fold:
+
 a) Gather, assess and clean a set of 3 datasets
+
 b) Generate 3 insights and 1 visualization
 
 3 datasets were used:
